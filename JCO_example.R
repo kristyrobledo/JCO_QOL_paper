@@ -1,5 +1,10 @@
 ############################################################################
-# apply methods in Val's JCO using the supplmentary example
+# apply methods in Val's JCO using the supplementary example
+#https://ascopubs-org.ezproxy.library.sydney.edu.au/doi/suppl/10.1200/JCO.21.02750?role=tab
+# Kristy Robledo
+# JUne 2023
+## ROUGH! needs tuning to simplify
+
 ############################################################################
 
 library(tidyverse)
